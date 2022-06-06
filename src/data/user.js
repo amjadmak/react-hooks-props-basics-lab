@@ -1,6 +1,6 @@
 const user = {
   name: "Amjad",
-  city: "Aleppoww",
+  city: "Aleppo",
   bio: "Moving forward until I can make it to the moon",
   color: "firebrick",
   links: {
